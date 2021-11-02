@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PokeDex/static/css/main.b28f38ea.chunk.css",
+    "main.js": "/PokeDex/static/js/main.98a288c8.chunk.js",
+    "main.js.map": "/PokeDex/static/js/main.98a288c8.chunk.js.map",
+    "runtime-main.js": "/PokeDex/static/js/runtime-main.ffb14514.js",
+    "runtime-main.js.map": "/PokeDex/static/js/runtime-main.ffb14514.js.map",
+    "static/js/2.2e1a6de6.chunk.js": "/PokeDex/static/js/2.2e1a6de6.chunk.js",
+    "static/js/2.2e1a6de6.chunk.js.map": "/PokeDex/static/js/2.2e1a6de6.chunk.js.map",
+    "static/js/3.76b2b1b6.chunk.js": "/PokeDex/static/js/3.76b2b1b6.chunk.js",
+    "static/js/3.76b2b1b6.chunk.js.map": "/PokeDex/static/js/3.76b2b1b6.chunk.js.map",
+    "index.html": "/PokeDex/index.html",
+    "static/css/main.b28f38ea.chunk.css.map": "/PokeDex/static/css/main.b28f38ea.chunk.css.map",
+    "static/js/2.2e1a6de6.chunk.js.LICENSE.txt": "/PokeDex/static/js/2.2e1a6de6.chunk.js.LICENSE.txt",
+    "static/media/Pokeball.b2c9e1ac.png": "/PokeDex/static/media/Pokeball.b2c9e1ac.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ffb14514.js",
+    "static/js/2.2e1a6de6.chunk.js",
+    "static/css/main.b28f38ea.chunk.css",
+    "static/js/main.98a288c8.chunk.js"
+  ]
+}
